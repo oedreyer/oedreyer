@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @oedreyer
-- 👀 I’m interested in learning more about software development and its applications
-- 🌱 I’m currently learning C and C++ along with algorithms, data structures, and other software development techniques
-- 📫 You can reach me on GitHub :-)
+
